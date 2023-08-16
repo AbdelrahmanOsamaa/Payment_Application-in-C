@@ -1,0 +1,8 @@
+﻿  server.c
+E:\Embedded System professinal track\Projects\Payment Application project .c\Payment Application project .c\server.c(7,13): warning C4101: 'account_pan': unreferenced local variable
+E:\Embedded System professinal track\Projects\Payment Application project .c\Payment Application project .c\server.c(6,11): warning C4101: 'account_balance': unreferenced local variable
+E:\Embedded System professinal track\Projects\Payment Application project .c\Payment Application project .c\server.c(11,11): warning C4101: 'transaction': unreferenced local variable
+E:\Embedded System professinal track\Projects\Payment Application project .c\Payment Application project .c\server.c(35,28): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'EN_accountState_t *'
+E:\Embedded System professinal track\Projects\Payment Application project .c\Payment Application project .c\server.c(76,21): warning C4098: 'isValidAccountTest': 'void' function returning a value
+E:\Embedded System professinal track\Projects\Payment Application project .c\Payment Application project .c\server.c(55,13): warning C4101: 'state': unreferenced local variable
+  Payment Application project .c.vcxproj -> E:\Embedded System professinal track\Projects\Payment Application project .c\x64\Debug\Payment Application project .c.exe
